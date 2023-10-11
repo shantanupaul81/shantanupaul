@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shantanupaul/static/css/main.bf538fe7.css",
+    "main.js": "/shantanupaul/static/js/main.f0b2ed30.js",
+    "static/media/pic.png": "/shantanupaul/static/media/pic.617f87db82894654c34c.png",
+    "index.html": "/shantanupaul/index.html",
+    "main.bf538fe7.css.map": "/shantanupaul/static/css/main.bf538fe7.css.map",
+    "main.f0b2ed30.js.map": "/shantanupaul/static/js/main.f0b2ed30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.f0b2ed30.js"
+  ]
+}
